@@ -1,4 +1,3 @@
-from random import sample
 from flask import Flask, render_template,url_for,request
 from flask_material import Material
 
